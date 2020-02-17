@@ -1,5 +1,6 @@
 {
     "name": "azarikhin/demopackage",
+    "version": "1.0.1",
     "description": "Demo package",
     "authors": [
         {
